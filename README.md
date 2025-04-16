@@ -4,7 +4,7 @@
 
 ```bash
 $ brew tap suzukiapple/gcc-stacktrace
-$ brew install suzukiapple/gcc-stacktrace/gcc --build-from-source
+$ brew install suzukiapple/gcc-stacktrace/gcc-stacktrace --build-from-source
 ```
 
 ```bash
